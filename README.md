@@ -15,13 +15,13 @@
 - Javascript (FE/AngularJs) <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"/>
 
 ## Connect
-- [Medium <img align="left" alt="dickanirwansyah | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
+- [Medium]
 - [Twitter <img align="left" alt="dickanirwansyah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
 - [LinkedIn <img align="left" alt="dickanirwansyah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
 - [Instagram  <img align="left" alt="mhddicka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
 
 
-[Medium]: (https://medium.com/@dickanirwansyah)
+[Medium]: https://medium.com/@dickanirwansyah
 [twitter]: https://x.com/dickanirwansyah
 [linkedin]: https://www.linkedin.com/in/muhamad-dicka-nirwansyah-11a7201b7/
 [instagram]: https://www.instagram.com/mhddicka/
